@@ -1,0 +1,9 @@
+D:\Yisdata\Kuliah\Smt 2\Praktikum\DKP\TA\DriveThru\DriveThru\bin\Debug\DriveThru.exe.config
+D:\Yisdata\Kuliah\Smt 2\Praktikum\DKP\TA\DriveThru\DriveThru\bin\Debug\DriveThru.exe
+D:\Yisdata\Kuliah\Smt 2\Praktikum\DKP\TA\DriveThru\DriveThru\bin\Debug\DriveThru.pdb
+D:\Yisdata\Kuliah\Smt 2\Praktikum\DKP\TA\DriveThru\DriveThru\obj\Debug\DriveThru.csprojResolveAssemblyReference.cache
+D:\Yisdata\Kuliah\Smt 2\Praktikum\DKP\TA\DriveThru\DriveThru\obj\Debug\DriveThru.Properties.Resources.resources
+D:\Yisdata\Kuliah\Smt 2\Praktikum\DKP\TA\DriveThru\DriveThru\obj\Debug\DriveThru.csproj.GenerateResource.Cache
+D:\Yisdata\Kuliah\Smt 2\Praktikum\DKP\TA\DriveThru\DriveThru\obj\Debug\DriveThru.exe
+D:\Yisdata\Kuliah\Smt 2\Praktikum\DKP\TA\DriveThru\DriveThru\obj\Debug\DriveThru.pdb
+D:\Yisdata\Kuliah\Smt 2\Praktikum\DKP\TA\DriveThru\DriveThru\obj\Debug\DriveThru.MainMenu.resources
